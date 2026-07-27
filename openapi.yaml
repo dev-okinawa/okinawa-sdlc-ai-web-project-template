@@ -1,0 +1,14 @@
+openapi: 3.0.3
+info:
+  title: AI SDLC Framework Demo API
+  description: |
+    Public HTTP API for the demo (commerce / orders).
+    Canonical OpenAPI file at repo root — used by `api-docs-author`.
+    Replace with your project's contract.
+  version: 0.1.0
+servers:
+  - url: /api
+    description: API base
+tags:
+  - name: Orders
+    description: Create, confirm, and cancel orders
