@@ -1,4 +1,4 @@
-# Okinawa SDLC AI Web project template
+# SDLC AI Web project template
 
 An AI-driven **SDLC framework** — it runs the full software development life cycle (requirements → specification → implementation → verification) through structured AI commands, rules, skills, and sub-agents. Built on a **docs-first** principle: documentation is the source of truth at every stage, code is its output.
 
